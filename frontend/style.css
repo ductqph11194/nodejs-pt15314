@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+:root{
+    --primary-color:#45ccb8;
+    --boder:black;
+    --text-color:#ff686b;
+    --gugi:"Gugi",cursive;
+    --Dot:"DLobster",cursive;
+
+    
+}
+
+.primary-color{
+   
+    font-family: var(--gugi);
+}
+.bg-primary-color{
+    background-color: var(--primary-color ) !important;
+}
+.text-color{
+    color: var(--text-color);
+}
+header{
+    background-color: var(--primary-color);
+}
+.header-links a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    font-family: var(--Dot);
+    
+}
+.gt{
+    padding-top: 10px;
+}
+.overlay{
+    display: block;
+    opacity: 0;
+    position: relative;
+    top: 10%;
+    margin-left: 0;
+    width: 70px;
+}
+.cart:hover .overlay{
+opacity: 1;
+margin-left: 5%;
+transition: 0.5s;
+}
+.box-brand{
+  margin-top: 20px;
+}
+.card-title {
+    margin-bottom: .5rem;
+}
+.card-body a{
+ text-decoration: none;
+ color: black
+}
+.card-body h3{
+font-size: 1.75rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

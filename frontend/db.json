@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": "l9yvnd7pm",
+      "name": "iPhone 12 Pro Max Chính Hãng ",
+      "price": "30590000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%201.jpg?alt=media&token=6fe48687-aaa2-4be1-855b-f0b82bdbef2d",
+      "detail": "Cứ mỗi năm, đến dạo cuối tháng 8 và gần đầu tháng 9 thì mọi thông tin sôi sục mới về chiếc iPhone mới lại xuất hiện. Apple năm nay lại ra thêm một chiếc iPhone mới với tên gọi mới là iPhone 12 Pro Max, đây là một dòng điện thoại mới và mạnh mẽ nhất của nhà Apple năm nay. Mời bạn tham khảo thêm một số mô tả sản phẩm bên dưới để bạn có thể ra quyết định mua sắm",
+      "categoryId": 2
+    },
+    {
+      "id": "hi777bvwz",
+      "name": "Samsung Galaxy S21 Plus 5G",
+      "price": "18150000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20ssss.jpg?alt=media&token=e70f4a8b-6570-46ab-84ef-9c4e797104ca",
+      "detail": "Có thể nói chiếc Samsung S21 Plus là một trong những chiếc điện thoại đáng được sở hữu nhất trong phân khúc tầm giá hiện tại. Với sự thay đổi thiết kế đột phá đi đầu trong phong cách thiết kế cùng với cấu hình cực kỳ mạnh mẽ của dòng S Plus của Samsung mang đến cho người dùng",
+      "categoryId": 3
+    },
+    {
+      "id": "kodyd5zaz",
+      "name": "Xiaomi Mi 10T Pro 5G",
+      "price": "11850000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20xiaomi-mi-10t-pro_2_.jpg?alt=media&token=5f03aad8-f578-4cd2-8cdc-b94e73f01295",
+      "detail": "Nếu bạn là một Mifan hay là một người dùng yêu công nghệ thì chắc chắn bạn sẽ không thể bỏ qua Xiaomi Mi 10T Pro. Với nhiều tính năng đặc biệt và công nghệ chụp ảnh cao cấp, Xiaomi đang dần đánh bóng tên tuổi mình hơn với chiếc smartphone này",
+      "categoryId": 4
+    },
+    {
+      "id": "lkgpj9t35",
+      "name": "ASUS ROG Phone 2 512GB",
+      "price": "20490000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20_600x600__crop_600_asus_rog_phone2_min_1.jpg?alt=media&token=8213c61c-568b-4dec-af5d-9a1b91e9224f",
+      "detail": "Vào tháng 7/2019, Asus đã cho ra mắt chiếc smartphone Rog Phone 2, tiếp bước người đàn anh là chiếc Asus Rog Phone thế hệ đầu tiên. Asus Rog Phone 2 sẽ được trang bị với một cấu hình khủng, hiệu năng thuộc dạng đầu bảng cùng màn hình có tần số quét 120Hz hứa hẹn sẽ mang lại sự ấn tượng như ở thế hệ tiền nhiệm",
+      "categoryId": 1
+    },
+    {
+      "id": "kkt1gsnzu",
+      "name": "Huawei Y6p",
+      "price": "2890000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20green_1.jpg?alt=media&token=3907f7a5-5b08-452b-bad0-e43badb485a8",
+      "detail": "Huawei Y6p 2020 là phiên bản nâng cấp hoàn hảo của thế hệ 2019. Mẫu smartphone giá rẻ mới nhất của Huawei sở hữu cấu hình khá nổi bật gồm chip Mediatek Helio P22, 3GB RAM và bộ nhớ trong 64GB đảm bảo mọi trải nghiệm mọi tác vụ mượt mà",
+      "categoryId": 5
+    },
+    {
+      "id": "tmzanxtsh",
+      "name": "Apple iPhone XR 128GB ",
+      "price": "14390000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20apple-iphone-xr-64-gb-chinh-hang-vn_1__1.jpg?alt=media&token=0b0527d0-3989-467c-95f1-e5b95acd0809",
+      "detail": "Bạn đang cần một chiếc iPhone thế hệ mới, với những tính năng mới nhất, thiết kế tinh tế, cấu hình mạnh nhất, nhưng với một mức giá tốt hơn rất nhiều? Hãy để tâm đến iPhone XR 128GB. Đây là một thiết bị iPhone không thể bỏ qua với những nhu cầu thiết yếu trên",
+      "categoryId": 2
+    },
+    {
+      "id": "a11cjuerc",
+      "name": "Samsung Galaxy S21 Ultra 5G",
+      "price": "29490000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20samsung-galaxy-s21-ultra-1_1.jpg?alt=media&token=b8490b54-6856-4948-9472-e6ef2867a236",
+      "detail": "Galaxy S21 Ultra với những cải tiến đáng kể về hiệu năng của máy cực kỳ mạnh mẽ cùng với thiết kế sang trọng cao cấp. Samsung đã mang đến cho người dùng một trải nghiệm hoàn toàn mới, đây hứa hẹn sẽ là chiếc smartphone đi đầu trên thế giới về các xu hướng công nghệ lẫn hiệu năng vượt trội đáng sở hữu nhất vào thời điểm ra mắt",
+      "categoryId": "3"
+    },
+    {
+      "id": "ersqblot3",
+      "name": "Samsung Galaxy S20 Ultra",
+      "price": "20100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20637170935875912528_ss-s20-ultra-den-1.png?alt=media&token=1fd3e84c-8da0-4d1f-8bf1-1a87f4d87fde",
+      "detail": "Samsung Galaxy S20 Ultra là flagship mới của dòng Galaxy S sẽ được Samsung giới thiệu vào đầu năm 2020. Đây là phiên bản cao cấp nhất bên cạnh phiên bản thường và bản Plus. Điện thoại sẽ được trang bị những tính năng tuyệt vời, dung lượng pin lớn, màn hình được trang bị tần số quét 120Hz, camera chính có độ phân giải 108mp sẽ là những tính năng nổi bật nhất.",
+      "categoryId": "3"
+    },
+    {
+      "id": "7qmhc975v",
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "price": "24400000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20black_final.jpg?alt=media&token=b2c515e3-a311-4616-896b-7dc0a67ca3ff",
+      "detail": "Samsung là gã khổng lồ công nghệ cực kỳ nổi tiếng đến từ đất nước Hàn Quốc, mỗi chiếc điện thoại của hãng đều mang thiết kế hiện đại, sang trọng đi kèm với đa dạng công nghệ cực kỳ nổi bật. Note 20 Ultra là một trong những chiếc smartphone nổi tiếng và đang được nhiều người quan tâm, đón nhận. Samsung hứa hẹn sẽ chiều lòng khách hàng với thiết kế lộng lẫy, cùng với vô vàng công nghệ, chip xử lý mới mẻ, thật hiện đại. Ngoài ra, bạn cũng có thể tham khảo thêm Note 20 Ultra 5G",
+      "categoryId": "3"
+    },
+    {
+      "id": "yeby40kwz",
+      "name": "iPhone 12 Pro I Chính hãng VN/A",
+      "price": "27500000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20iphone-12-pro-max_3__9.jpg?alt=media&token=f00007a5-0347-4725-9ccb-1b86c4fbd1be",
+      "detail": "Ra mắt vào cuối năm 2020, iPhone 12 series mang đến một luồng gió với trong phân khúc smartphone cao cấp. Với thiết kế đổi mới đột phá so với thế hệ trước cùng nhiều nâng cấp về hiệu năng đáng kể trên iPhone 12 Pro. Đây sẽ là một trong những chiếc điện thoại đáng được bạn lựa chọn nhất so với các chiếc điện thoại khác cùng phân khúc giá",
+      "categoryId": "2"
+    },
+    {
+      "id": "7qc5bkpjt",
+      "name": "iPhone 12 Pro 256GB I Chính hãng ",
+      "price": "29500000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20photo_2020-10-13_22-12-43.webp?alt=media&token=3268af5f-d66d-422b-b511-f11be1d310b6",
+      "detail": "Mẫu iPhone 2020 mới nhất của Apple được thiết kế khung viền vuông sang trọng được nhiều người dùng yêu thích. Trong đó, phiên bản iPhone 12 Pro 256GB chính hãng VNA hứa hẹn là một trong những sự lựa chọn lý tưởng",
+      "categoryId": "2"
+    },
+    {
+      "id": "c6kz4fr1h",
+      "name": "ASUS ZenFone Max Pro M2 3GB",
+      "price": "5290000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20zfmaxpro_m2__front_darkblue.jpg?alt=media&token=ac718737-0edd-4510-be97-3aa91383be81",
+      "detail": "Với thiết kế sang trọng, cấu hình mạnh, camera “chất” và đặc biệt là viên pin dung lượng “khủng”, điện thoại ASUS ZenFone Max Pro M2 3GB RAM là ứng cử viên “nặng ký” khi người dùng cần mua một chiếc smartphone tầm trung",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "ASUS",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20ass.png?alt=media&token=fa824b3d-6953-4cc8-b47a-d038165dd2a6"
+    },
+    {
+      "id": "2",
+      "name": "APPLE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20tao.jfif?alt=media&token=94781a0d-928d-49e4-9f56-dfcda27b7faa"
+    },
+    {
+      "id": "3",
+      "name": "SAMSUNG",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20ss.jfif?alt=media&token=c18fc3b6-2c61-48f3-a1dc-6c7312f64148"
+    },
+    {
+      "id": "4",
+      "name": "XIAOMI",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20xiaomi.png?alt=media&token=1ac1fa02-63a8-4967-9e8c-45caa0122034"
+    },
+    {
+      "id": "5",
+      "name": "HUAWEI",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20ggg.jfif?alt=media&token=d9687d12-7a04-4942-b2b5-dd07892f2514"
+    },
+    {
+      "id": "577xj33tu",
+      "name": "điện thoại ip 13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-40648.appspot.com/o/images%20%2F%20db.png?alt=media&token=db1a841c-d0d2-4b55-9bb9-1f55fca2a001"
+    }
+  ],
+  "contact": [
+    {
+      "id": "le0bcx7fc",
+      "name": "đâsd",
+      "sdt": "đâs",
+      "noidung": "xcvxcv",
+      "email": "trinduc@gmail.com"
+    },
+    {
+      "id": "7o7r7vjjm",
+      "name": "ádasd",
+      "sdt": "ádasd",
+      "noidung": "ádasd",
+      "email": "trinduc@gmail.com"
+    },
+    {
+      "id": "ck2ysuihy",
+      "name": "ádasd",
+      "sdt": "ádasdasdasdasd",
+      "noidung": "ádasd",
+      "email": "trinduc@gmail.com"
+    },
+    {
+      "id": "73371y9m7",
+      "name": "trịnh đức",
+      "sdt": "012345789",
+      "noidung": "sdaaaaaaaa",
+      "email": "11212@gmail.com"
+    },
+    {
+      "id": "kqtxuo9k5",
+      "tentk": "aaaaaa",
+      "pass": "123"
+    }
+  ],
+  "dangki": [
+    {
+      "id": "5bnglk643",
+      "tentk": "qqqqqq",
+      "pass": "qqq",
+      "avt": "qqq"
+    },
+    {
+      "id": "c2xxbypsd",
+      "tentk": "sssss",
+      "pass": "111"
+    },
+    {
+      "id": "ol6dfdhme",
+      "tentk": "sssss",
+      "pass": "333"
+    }
+  ]
+}
